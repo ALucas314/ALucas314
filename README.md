@@ -9,6 +9,8 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=en)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antoniolucas.costaaraujo/)
 
+## 🏻 GitHub Stats & Top Languages
+
 <div align="center">
   <a href="https://github.com/ALucas314">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight"/>
@@ -17,19 +19,6 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=github-readme-stats,ALucas314.github.io"/>
   </a>
 </div>
-
-
-
-## 🏻 GitHub Stats & Top Languages
-<div align="center">
-  <a href="https://github.com/ALucas314">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/ALucas314">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
 
 
 
