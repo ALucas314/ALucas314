@@ -11,8 +11,8 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 ## 🏻 GitHub Stats & Top Languages
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight" height="120em">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="120em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight" height="140em">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="140em">
 </div>
 
 ## 🏻 Skills 
