@@ -52,4 +52,3 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ALucas314)](https://github.com/ALucas314/ALucas314)
