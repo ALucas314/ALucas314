@@ -1,6 +1,3 @@
-
-
-User
 # 🏻 Hello World! I'm Antônio Lucas :D
 Since childhood, my heart has pulsed to the rhythm of technology. Each line of code is a step towards my programming goal, and the learning journey is the soundtrack that drives my passion for creating innovative solutions and transforming the digital world.
 
@@ -14,7 +11,6 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 ## 🏻 GitHub Stats & Top Languages
 
-
 <div align="center">
   <a href="https://github.com/ALucas314">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight"/>
@@ -24,12 +20,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
   </a>
 </div>
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 ## 🏻 Skills 
 
@@ -38,12 +29,9 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS 3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-    
 </div>
 
 ## 🏻 Tools 🔗
-
-
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
@@ -51,9 +39,6 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 ![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
-
-
-
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
