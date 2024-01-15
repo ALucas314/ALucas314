@@ -10,9 +10,14 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antoniolucas.costaaraujo/)
 
 ## 🏻 GitHub Stats & Top Languages
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight" height="160em">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="160em">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight" height="180em">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="100%">
 </div>
 
 ## 🏻 Skills 
@@ -43,5 +48,3 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-
-
