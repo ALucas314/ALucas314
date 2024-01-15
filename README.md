@@ -50,3 +50,6 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ALucas314)](https://github.com/anuraghazra/github-readme-stats)
