@@ -48,3 +48,5 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+
+![Snake animation](https//github.com/ALucas314/ALucas314/blob/github-contribution-grid-snake.svg)
