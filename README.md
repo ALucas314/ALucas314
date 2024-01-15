@@ -10,10 +10,10 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antoniolucas.costaaraujo/)
 
 ## 🏻 GitHub Stats & Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight" height="180em">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="180em">
+</div>
 
 ## 🏻 Skills 
 
