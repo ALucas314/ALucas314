@@ -13,8 +13,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight" height="180em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight" height="180em">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight&hide_title=true&card_width=445&hide_border=true&bg_color=00000000&text_color=3498db&title_color=3498db&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -28,6 +27,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS 3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="SCSS">
 </div>
 
 ## 🏻 Tools 🔗
