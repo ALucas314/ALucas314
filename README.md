@@ -24,9 +24,9 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 <div style="display: inline_block"> </br>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5">
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS 3">
+    <img src="https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="SCSS">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="SCSS">
 </div>
 
 ## 🏻 Tools 🔗
