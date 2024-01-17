@@ -13,11 +13,17 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight&hide_title=true&card_width=445&hide_border=true&bg_color=00000000&text_color=3498db&title_color=3498db&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=donut-vertical&show_icons=true&theme=tokyonight" height="300"
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="100%">
+</div>
+
+## 🏻 Most Used Languages
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=donut&theme=tokyonight)](https://github.com/ALucas314/github-readme-stats)
 </div>
 
 ## 🏻 Skills 
