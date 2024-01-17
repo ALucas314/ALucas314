@@ -20,12 +20,6 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="100%">
 </div>
 
-## 🏻 Most Used Languages
-
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=donut&theme=tokyonight)](https://github.com/ALucas314/github-readme-stats)
-</div>
-
 ## 🏻 Skills 
 
 <div style="display: inline_block"> </br>
