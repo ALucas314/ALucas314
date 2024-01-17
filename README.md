@@ -16,7 +16,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="180em">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="267em">
 </div>
 
 ## 🏻 Skills 
