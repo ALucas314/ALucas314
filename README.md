@@ -17,12 +17,12 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 <!-- Adicione esta linha para incluir a linguagem SCSS -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight&hide=html,css&langs_count=10&exclude_repo=repo1,repo2&hide_title=true&card_width=445&hide_border=true&bg_color=00000000&text_color=3498db&title_color=3498db" alt="Top Languages" />
+
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="100%">
 </div>
-
 ## 🏻 Skills 
 
 <div style="display: inline_block"> </br>
