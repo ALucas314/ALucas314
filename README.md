@@ -6,7 +6,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 ## 🏻 Conecte-se Comigo
 
-[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lucas-costa-araujo-2a66a2264/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=en) [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antoniolucas.costaaraujo/)
+[![LikedIn](www.linkedin.com/in/antonio-lucas-costa-araujo-5462a52b0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lucas-costa-araujo-2a66a2264/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=en) [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antoniolucas.costaaraujo/)
 
 ## 🏻 GitHub Stats & Top Languages
 
