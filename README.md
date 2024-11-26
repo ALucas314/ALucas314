@@ -4,10 +4,6 @@ Since childhood, my heart has pulsed to the rhythm of technology. Each line of c
 
 Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de código é um passo em direção ao meu objetivo de programação, e a jornada de aprendizado é a trilha sonora que impulsiona minha paixão por criar soluções inovadoras e transformar o mundo digital.
 
-## 🏻 Conecte-se Comigo
-
-[![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antonio-lucas-costa-araujo-5462a52b0) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=en) [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/antoniolucas.costaaraujo/)
-
 ## 🏻 GitHub Stats & Top Languages
 
 <div align="center">
