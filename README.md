@@ -7,12 +7,9 @@ Since childhood, my heart has pulsed to the rhythm of technology. Each line of c
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&show_icons=true&theme=tokyonight&hide=php,blade&include_all_commits=true&count_private=true" height="180em">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="267em">
+  <a href="https://github.com/ALucas314?tab=repositories">
+    <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg" alt="3D GitHub Contributions" width="700">
+  </a>
 </div>
 
 ---
