@@ -1,15 +1,18 @@
 # 🌌 **Hello World! I'm Antônio Lucas :D | Olá Mundo! Sou Antônio Lucas :D**
 
-Desde a infância, meu coração pulsa no ritmo da tecnologia. Cada linha de código é um passo rumo ao meu objetivo na programação, e a jornada de aprendizado é a trilha sonora que alimenta minha paixão por criar soluções inovadoras e transformar o mundo digital.
+Desde a infância, meu coração pulsa no ritmo da tecnologia. Cada linha de código é um passo rumo ao meu objetivo na programação, e a jornada de aprendizado é a trilha sonora que alimenta minha paixão por criar soluções inovadoras e transformar o mundo digital.  
 
 Since childhood, my heart has pulsed to the rhythm of technology. Each line of code is a step toward my programming goal, and the learning journey is the soundtrack that drives my passion for creating innovative solutions and transforming the digital world.
 
 ---
 
 <div align="center">
-  <a href="https://github.com/ALucas314?tab=repositories">
-    <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg" alt="3D GitHub Contributions" width="700">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&show_icons=true&theme=tokyonight&hide=php,blade&include_all_commits=true&count_private=true" height="180em">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="267em">
 </div>
 
 ---
@@ -50,13 +53,6 @@ Since childhood, my heart has pulsed to the rhythm of technology. Each line of c
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-</div>
-
----
-
-## 📊 **Languages Used in My Repositories | Linguagens Usadas**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&langs_count=10&theme=dark" alt="Linguagens Mais Usadas">
 </div>
 
 ---
