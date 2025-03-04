@@ -6,15 +6,15 @@ Since childhood, my heart has pulsed to the rhythm of technology. Each line of c
 
 ---
 
-## 📊 **GitHub Stats & Top Languages**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=radical&hide_border=true&custom_title=Minha%20Performance%20no%20GitHub" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&hide=php,blade" height="180em">
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=react-dark&hide_border=true" height="267em">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=radical&hide_border=true" height="267em">
 </div>
+
 
 ---
 
