@@ -8,7 +8,7 @@ Since childhood, my heart has pulsed to the rhythm of technology. Each line of c
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&show_icons=true&theme=tokyonight&hide=php,blade&include_all_commits=true&count_private=true" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&show_icons=true&theme=tokyonight&hide=php,blade&include_all_commits=true&count_private=true&langs_count=8" height="180em">
 </div>
 
 <div align="center">
