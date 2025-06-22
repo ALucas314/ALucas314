@@ -1,6 +1,8 @@
-# 🌌 **Hello World! I'm Antônio Lucas :D**
+# 🌌 **Hello World! I'm Antônio Lucas :D - Olá mundo! Eu sou Antônio Lucas :D**
 
 Since childhood, my heart has pulsed to the rhythm of technology. Each line of code is a step toward my programming goal, and the learning journey is the soundtrack that drives my passion for creating innovative solutions and transforming the digital world.
+
+Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de código é um passo em direção ao meu objetivo de programação, e a jornada de aprendizado é a trilha sonora que impulsiona minha paixão por criar soluções inovadoras e transformar o mundo digital.
 
 ---
 
