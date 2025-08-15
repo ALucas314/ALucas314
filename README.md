@@ -1,4 +1,4 @@
-# 🌌 Hello World! I'm Antônio Lucas :D | Olá, Mundo! Eu sou Antônio Lucas :D
+# 🌌 Hello World! I'm Antônio Lucas  | Olá, Mundo! Eu sou Antônio Lucas :D
 
 💡 *"Cada linha de código é um passo para transformar ideias em realidade."*
 
