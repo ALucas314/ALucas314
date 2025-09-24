@@ -72,7 +72,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramen
 ## 📫 Contato
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/antonio-lucas-costa-araujo-5462a52b0/">
+  <a href="https://www.linkedin.com/in/antonio-lucas-costa-araujo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/a.lucas1920/">
