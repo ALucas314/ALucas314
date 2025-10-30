@@ -46,6 +46,7 @@ Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma op
 
 ---
 
+---
 
 ## 📫 Contato  
 <div align="center">
@@ -61,3 +62,4 @@ Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma op
 </div>
 
 ---
+
