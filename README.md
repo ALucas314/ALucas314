@@ -63,11 +63,6 @@ Sou um desenvolvedor com interesse sólido em tecnologia e inovação. Vejo cada
 
 ---
 
-## 🚀 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas ferramentas, linguagens e metodologias para criar soluções criativas e eficientes. Busco desafios que me permitam evoluir e contribuir para projetos impactantes.  
-
-💻 *Sempre explorando novas possibilidades e criando soluções inovadoras para o futuro da tecnologia.* **Vamos juntos!**
-
 ---
 
 ## 📫 Contato
