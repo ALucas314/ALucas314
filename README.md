@@ -1,8 +1,9 @@
-# 🌌 Hello World! I'm Antônio Lucas  | Olá, Mundo! Eu sou Antônio Lucas :D
+# 🌌 Olá, Mundo! Eu sou Antônio Lucas :D
 
-💡 *"Cada linha de código é um passo para transformar ideias em realidade."*
+💡 *"Cada linha de código representa a construção de algo concreto a partir de uma ideia."*
 
-Sou um desenvolvedor apaixonado por tecnologia desde a infância. Cada projeto é uma oportunidade de aprender, inovar e criar soluções digitais que impactem o mundo.
+Sou um desenvolvedor com interesse sólido em tecnologia e inovação. Vejo cada projeto como uma oportunidade de aprimorar habilidades e desenvolver soluções digitais eficientes e impactantes.
+
 
 ---
 
