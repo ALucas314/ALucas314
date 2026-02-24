@@ -19,11 +19,6 @@ Acredito que código vai além de funcionar — ele precisa ser **escalável, or
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night&hide_border=true"/>
 </div>
 
