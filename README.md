@@ -1,4 +1,13 @@
+<!-- BANNER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Antônio%20Lucas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 🌌 Olá, Mundo! Eu sou Antônio Lucas 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;SQL+%7C+Crystal+Reports+%7C+React;Sempre+Aprendendo+Algo+Novo+🚀" />
+</p>
 
 💡 *"Cada linha de código representa a construção de algo concreto a partir de uma ideia."*
 
@@ -9,20 +18,51 @@ Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma op
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night" height="260em">
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ALucas314&theme=tokyonight&no-frame=true&margin-w=15"/>
 </div>
 
 ---
 
 ## 🐍 Contribuições em movimento
 
+<div align="center">
+  
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
 ## 👀 Visualizações do perfil
 
-![Profile views](https://komarev.com/ghpvc/?username=ALucas314\&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ALucas314&color=blue&style=for-the-badge">
+</p>
+
+---
+
+## 🚀 Atualmente estudando
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend%20Architecture-6A1B9A?style=for-the-badge">
+</p>
 
 ---
 
@@ -77,4 +117,8 @@ Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma op
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>
