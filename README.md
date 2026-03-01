@@ -31,16 +31,6 @@ Desenvolvedor Full Stack focado em <strong>Back-end, Dados e Sistemas Empresaria
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🐍 Contribuições em Movimento
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🚀 Stack Principal
 
 ## 💻 Front-end
