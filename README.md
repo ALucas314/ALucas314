@@ -36,7 +36,6 @@ Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma op
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
   <img src="https://img.shields.io/badge/Crystal%20Reports-0F5BA7?style=for-the-badge&logo=sap&logoColor=white">
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 </div>
 
 ---
