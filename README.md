@@ -36,16 +36,6 @@ Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma op
 
 </div>
 
----
-
-## 👀 Visualizações do perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALucas314&color=blue&style=for-the-badge">
-</p>
-
----
-
 ## 🚀 Atualmente estudando
 
 <p align="center">
