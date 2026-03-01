@@ -9,18 +9,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;SQL+%7C+Crystal+Reports+%7C+React;Sempre+Aprendendo+Algo+Novo+🚀" />
 </p>
 
-💡 *"Cada linha de código representa a construção de algo concreto a partir de uma ideia."*
-
 Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma oportunidade de aprender, evoluir e criar soluções digitais eficientes e impactantes.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight"/>
-</div>
+
 
 <br>
 
@@ -30,11 +25,6 @@ Sou um desenvolvedor com foco em tecnologia e inovação. Cada projeto é uma op
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ALucas314&theme=tokyonight&no-frame=true&margin-w=15"/>
-</div>
 
 ---
 
