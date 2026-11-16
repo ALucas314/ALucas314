@@ -15,38 +15,23 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=antoniolucas9014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br />
-
 <!-- ===================== SOBRE ===================== -->
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ### 👨‍💻 Sobre mim
 
-Desenvolvedor **Full Stack** formado em **Sistemas de Informação (UFPA)**, com foco em **back-end, APIs e dados**.
+Desenvolvedor **Full Stack** formado em **Sistemas de Informação (UFPA)**, com foco em **back-end, APIs e dados**. Crio **sistemas, plataformas web e automações sob medida**, cuidando de cada etapa: da modelagem do banco ao deploy.
 
-Crio **sistemas, plataformas web e automações sob medida**, cuidando de cada etapa: da modelagem do banco ao deploy.
+- 🎯 **Agora:** arquitetura back-end, otimização SQL e análise de dados
+- 💼 **Disponível** para projetos freelance
 
-🎯 **Agora:** arquitetura back-end, otimização SQL e análise de dados<br />
-💼 **Disponível** para projetos freelance
-
-</td>
-<td width="45%" valign="top">
-
-​```js
+```js
 const antonioLucas = {
   role: "Full Stack Developer",
   focus: ["Back-end", "APIs", "Dados"],
   stack: ["React", "Node.js", "Python", "SQL"],
   available: true, // 🚀
 };
-​```
-
-</td>
-</tr>
-</table>
+```
 
 <!-- ===================== STACK ===================== -->
 
