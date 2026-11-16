@@ -1,104 +1,144 @@
+
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Antônio%20Lucas&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20SAP%20%7C%20Data&descSize=18&descAlignY=65"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:123B5D,100:00BFFF&height=220&section=header&text=Ant%C3%B4nio%20Lucas&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Back-end%20%7C%20Data&descSize=17&descAlignY=68"/>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Antônio Lucas</h1>
+<h1 align="center">Olá! Eu sou o Antônio Lucas 👋</h1>
+
+<h3 align="center">
+  Desenvolvedor Full Stack | Back-end | Dados
+</h3>
 
 <p align="center">
-Desenvolvedor Full Stack focado em <strong>Back-end, Dados e Sistemas Empresariais</strong>.
+  Transformando ideias em soluções digitais através de código,
+  tecnologia e análise de dados.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+em+SQL+e+Relatórios;SAP+%7C+Crystal+Reports;React+%7C+Python;Sempre+evoluindo+🚀" />
+  <img src="https://komarev.com/ghpvc/?username=ALucas314&style=for-the-badge&color=007ACC&label=VISUALIZAÇÕES+DO+PERFIL"/>
+  <img src="https://img.shields.io/github/followers/ALucas314?style=for-the-badge&color=0A84FF&label=Seguidores"/>
 </p>
-
----
-
-## 🧠 Sobre mim
-
-💡 Transformo ideias em soluções digitais funcionais  
-📊 Experiência com análise de dados e relatórios corporativos  
-🏢 Atuação com sistemas empresariais (SAP & Banco de Dados)  
-🚀 Sempre aprendendo novas tecnologias  
-
----
-
-## 📊 Estatísticas GitHub
-
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&theme=tokyo-night&hide_border=true"/>
-</p>
-
-# 🚀 Stack Principal
-
-## 💻 Front-end
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-</p>
-
-## ⚙️ Back-end & Dados
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">
-  <img src="https://img.shields.io/badge/Crystal%20Reports-0F5BA7?style=for-the-badge&logo=sap&logoColor=white">
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-</p>
-
-## 🛠 Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Desenvolvimento+Back-end;An%C3%A1lise+e+Visualiza%C3%A7%C3%A3o+de+Dados;Construindo+solu%C3%A7%C3%B5es+com+Python;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80"/>
 </p>
 
 ---
 
-## 🎯 Atualmente focado em
+## 👨‍💻 Sobre mim
 
-📌 SAP HANA  
-📌 Arquitetura Back-end  
-📌 Análise de Dados  
-📌 Performance e otimização de consultas SQL  
+Sou desenvolvedor Full Stack com foco em desenvolvimento Back-end, banco de dados e soluções orientadas a dados.
+
+Gosto de transformar problemas em aplicações funcionais, desenvolver ferramentas que facilitam processos e explorar novas tecnologias.
+
+- 💻 Desenvolvimento de aplicações Web
+- ⚙️ Construção de soluções Back-end
+- 📊 Análise, manipulação e visualização de dados
+- 🗄️ Modelagem e otimização de bancos de dados
+- 🚀 Aprendizado contínuo e evolução profissional
 
 ---
 
-## 📫 Contato
+## 🧰 Tecnologias e ferramentas
+
+### 🎨 Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+</p>
+
+### ⚙️ Back-end & Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,supabase" />
+</p>
+
+### 🛠️ Ferramentas & Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,netlify" />
+</p>
+
+### 📊 Dados & Aplicações
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALucas314&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALucas314&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+### 🔥 Sequência de contribuições
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=ALucas314&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+</p>
+
+### 📊 Histórico de atividades
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&bg_color=1a1b27&color=70a5fd&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Minha%20Atividade%20no%20GitHub"/>
+</p>
+
+---
+
+## 🎯 Atualmente estudando e evoluindo
+
+- 🐍 Python e desenvolvimento Back-end
+- ⚛️ React e TypeScript
+- 🗄️ Banco de dados e consultas SQL
+- 📊 Análise e visualização de dados
+- 🏗️ Arquitetura e boas práticas de desenvolvimento
+- ⚡ Performance e otimização de aplicações
+
+---
+
+## 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/ALucas314?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar%20meus%20reposit%C3%B3rios-007ACC?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Confira meus projetos, experimentos e soluções desenvolvidas.
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-lucas-costa-araujo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/a.lucas1920/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=antoniolucas9014@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:antoniolucas9014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
 
 ---
+
+<p align="center">
+  <i>"Grandes soluções começam com curiosidade, dedicação e algumas linhas de código."</i>
+</p>
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0F172A&height=120&section=footer"/>
 </p>
-
-
-
-
-tire qualquer coisa do SAP ou crystal reports
