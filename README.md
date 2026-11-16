@@ -41,14 +41,12 @@
 
 ## 📊 GitHub Statistics
 
-
-
 <p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=ALucas314&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&bg_color=1a1b27&color=70a5fd&line=00bfff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALucas314&bg_color=1a1b27&color=70a5fd&line=00bfff&point=ffffff&area=true&hide_border=true"/>
+  <img width="85%" src="https://streak-stats.demolab.com?user=ALucas314&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
 
 ---
